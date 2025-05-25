@@ -2,19 +2,6 @@
 
 This repository contains a Verilog implementation of a simple RISC (Reduced Instruction Set Computer) CPU. The design includes a basic instruction set, a finite state machine (FSM) controller, and modules for memory, ALU, and program counter management.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Instruction Set](#instruction-set)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Debugging](#debugging)
-- [Limitations](#limitations)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 The RISC CPU is designed to execute a limited set of instructions stored in a 32-byte memory. It features an 8-bit data path, a 5-bit address space, and a controller that manages instruction fetch, decode, and execution through an 8-state FSM. The CPU supports operations like arithmetic (ADD), logical (AND, XOR), data transfer (LDA, STO), control flow (JMP, SKZ), and halting (HLT).
 
