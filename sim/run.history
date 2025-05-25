@@ -1,0 +1,124 @@
+#e1(11Apr2025:16:09:19): source ./xcelium.d/env.d/env.history.11Apr2025_16_09_19
+s1(11Apr2025:16:09:19):  xrun -access rw -licqueue -64BIT -l run.log ../src/program_counter.v ../src/address_mux.v ../src/memory.v ../src/alu.v ../src/register.v ../src/controller.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e2(11Apr2025:16:09:32): source ./xcelium.d/env.d/env.history.11Apr2025_16_09_32
+s2(11Apr2025:16:09:32):  xrun -access rw -licqueue -64BIT -l run.log ../src/program_counter.v ../src/address_mux.v ../src/memory.v ../src/alu.v ../src/register.v ../src/controller.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e3(11Apr2025:16:21:29): source ./xcelium.d/env.d/env.history.11Apr2025_16_21_29
+s3(11Apr2025:16:21:29):  xrun -access rw -licqueue -64BIT -l run.log ../src/program_counter.v ../src/address_mux.v ../src/memory.v ../src/alu.v ../src/register.v ../src/controller.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e4(11Apr2025:16:29:41): source ./xcelium.d/env.d/env.history.11Apr2025_16_29_41
+s4(11Apr2025:16:29:41):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e5(11Apr2025:16:32:45): source ./xcelium.d/env.d/env.history.11Apr2025_16_32_45
+s5(11Apr2025:16:32:45):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e6(11Apr2025:16:35:52): source ./xcelium.d/env.d/env.history.11Apr2025_16_35_52
+s6(11Apr2025:16:35:52):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e7(11Apr2025:16:35:58): source ./xcelium.d/env.d/env.history.11Apr2025_16_35_58
+s7(11Apr2025:16:35:58):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e8(11Apr2025:16:42:42): source ./xcelium.d/env.d/env.history.11Apr2025_16_42_42
+s8(11Apr2025:16:42:42):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e9(11Apr2025:16:43:56): source ./xcelium.d/env.d/env.history.11Apr2025_16_43_56
+s9(11Apr2025:16:43:56):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e10(11Apr2025:16:47:24): source ./xcelium.d/env.d/env.history.11Apr2025_16_47_24
+s10(11Apr2025:16:47:24):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e11(11Apr2025:16:51:26): source ./xcelium.d/env.d/env.history.11Apr2025_16_51_26
+s11(11Apr2025:16:51:26):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e12(11Apr2025:16:52:01): source ./xcelium.d/env.d/env.history.11Apr2025_16_52_01
+s12(11Apr2025:16:52:01):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e13(11Apr2025:16:54:16): source ./xcelium.d/env.d/env.history.11Apr2025_16_54_16
+s13(11Apr2025:16:54:16):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e14(11Apr2025:17:01:53): source ./xcelium.d/env.d/env.history.11Apr2025_17_01_53
+s14(11Apr2025:17:01:53):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e15(11Apr2025:17:02:15): source ./xcelium.d/env.d/env.history.11Apr2025_17_02_15
+s15(11Apr2025:17:02:15):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e16(11Apr2025:17:03:10): source ./xcelium.d/env.d/env.history.11Apr2025_17_03_10
+s16(11Apr2025:17:03:10):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e17(11Apr2025:17:06:15): source ./xcelium.d/env.d/env.history.11Apr2025_17_06_15
+s17(11Apr2025:17:06:15):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e18(11Apr2025:17:06:34): source ./xcelium.d/env.d/env.history.11Apr2025_17_06_34
+s18(11Apr2025:17:06:34):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e19(11Apr2025:17:10:02): source ./xcelium.d/env.d/env.history.11Apr2025_17_10_02
+s19(11Apr2025:17:10:02):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e20(11Apr2025:17:12:21): source ./xcelium.d/env.d/env.history.11Apr2025_17_12_21
+s20(11Apr2025:17:12:21):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e21(11Apr2025:17:14:43): source ./xcelium.d/env.d/env.history.11Apr2025_17_14_43
+s21(11Apr2025:17:14:43):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e22(11Apr2025:17:14:46): source ./xcelium.d/env.d/env.history.11Apr2025_17_14_46
+s22(11Apr2025:17:14:46):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e23(11Apr2025:17:15:05): source ./xcelium.d/env.d/env.history.11Apr2025_17_15_05
+s23(11Apr2025:17:15:05):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e24(11Apr2025:17:16:36): source ./xcelium.d/env.d/env.history.11Apr2025_17_16_36
+s24(11Apr2025:17:16:36):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e25(11Apr2025:17:17:25): source ./xcelium.d/env.d/env.history.11Apr2025_17_17_25
+s25(11Apr2025:17:17:25):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e26(12Apr2025:16:15:55): source ./xcelium.d/env.d/env.history.12Apr2025_16_15_55
+s26(12Apr2025:16:15:55):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/risc_cpu_tb.v 
+#e27(12Apr2025:16:16:14): source ./xcelium.d/env.d/env.history.12Apr2025_16_16_14
+s27(12Apr2025:16:16:14):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/risc_cpu_tb.v 
+#e28(12Apr2025:16:16:52): source ./xcelium.d/env.d/env.history.12Apr2025_16_16_52
+s28(12Apr2025:16:16:52):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e29(12Apr2025:16:17:43): source ./xcelium.d/env.d/env.history.12Apr2025_16_17_43
+s29(12Apr2025:16:17:43):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e30(12Apr2025:16:19:17): source ./xcelium.d/env.d/env.history.12Apr2025_16_19_17
+s30(12Apr2025:16:19:17):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e31(12Apr2025:16:19:36): source ./xcelium.d/env.d/env.history.12Apr2025_16_19_36
+s31(12Apr2025:16:19:36):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e32(12Apr2025:16:19:52): source ./xcelium.d/env.d/env.history.12Apr2025_16_19_52
+s32(12Apr2025:16:19:52):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e33(12Apr2025:17:22:50): source ./xcelium.d/env.d/env.history.12Apr2025_17_22_50
+s33(12Apr2025:17:22:50):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e34(12Apr2025:17:26:47): source ./xcelium.d/env.d/env.history.12Apr2025_17_26_47
+s34(12Apr2025:17:26:47):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e35(12Apr2025:17:31:19): source ./xcelium.d/env.d/env.history.12Apr2025_17_31_19
+s35(12Apr2025:17:31:19):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e36(12Apr2025:17:32:59): source ./xcelium.d/env.d/env.history.12Apr2025_17_32_59
+s36(12Apr2025:17:32:59):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e37(12Apr2025:17:34:11): source ./xcelium.d/env.d/env.history.12Apr2025_17_34_11
+s37(12Apr2025:17:34:11):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e38(12Apr2025:17:34:29): source ./xcelium.d/env.d/env.history.12Apr2025_17_34_29
+s38(12Apr2025:17:34:29):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e39(12Apr2025:17:35:11): source ./xcelium.d/env.d/env.history.12Apr2025_17_35_11
+s39(12Apr2025:17:35:11):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e40(12Apr2025:17:42:14): source ./xcelium.d/env.d/env.history.12Apr2025_17_42_14
+s40(12Apr2025:17:42:14):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e41(12Apr2025:17:49:16): source ./xcelium.d/env.d/env.history.12Apr2025_17_49_16
+s41(12Apr2025:17:49:16):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e42(12Apr2025:17:50:28): source ./xcelium.d/env.d/env.history.12Apr2025_17_50_28
+s42(12Apr2025:17:50:28):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e43(12Apr2025:17:51:37): source ./xcelium.d/env.d/env.history.12Apr2025_17_51_37
+s43(12Apr2025:17:51:37):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e44(12Apr2025:17:51:43): source ./xcelium.d/env.d/env.history.12Apr2025_17_51_43
+s44(12Apr2025:17:51:43):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e45(12Apr2025:17:51:55): source ./xcelium.d/env.d/env.history.12Apr2025_17_51_55
+s45(12Apr2025:17:51:55):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e46(12Apr2025:17:54:29): source ./xcelium.d/env.d/env.history.12Apr2025_17_54_29
+s46(12Apr2025:17:54:29):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e47(12Apr2025:17:54:50): source ./xcelium.d/env.d/env.history.12Apr2025_17_54_50
+s47(12Apr2025:17:54:50):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e48(12Apr2025:17:58:15): source ./xcelium.d/env.d/env.history.12Apr2025_17_58_15
+s48(12Apr2025:17:58:15):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_p2.v 
+#e49(12Apr2025:17:58:56): source ./xcelium.d/env.d/env.history.12Apr2025_17_58_56
+s49(12Apr2025:17:58:56):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_p2.v 
+#e50(12Apr2025:17:59:52): source ./xcelium.d/env.d/env.history.12Apr2025_17_59_52
+s50(12Apr2025:17:59:52):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 
+#e51(12Apr2025:18:00:01): source ./xcelium.d/env.d/env.history.12Apr2025_18_00_01
+s51(12Apr2025:18:00:01):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 
+#e52(12Apr2025:18:00:43): source ./xcelium.d/env.d/env.history.12Apr2025_18_00_43
+s52(12Apr2025:18:00:43):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 
+#e53(12Apr2025:18:01:35): source ./xcelium.d/env.d/env.history.12Apr2025_18_01_35
+s53(12Apr2025:18:01:35):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program1.v 
+#e54(12Apr2025:18:09:46): source ./xcelium.d/env.d/env.history.12Apr2025_18_09_46
+s54(12Apr2025:18:09:46):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program1.v 
+#e55(12Apr2025:18:10:28): source ./xcelium.d/env.d/env.history.12Apr2025_18_10_28
+s55(12Apr2025:18:10:28):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program1.v 
+#e56(12Apr2025:18:12:30): source ./xcelium.d/env.d/env.history.12Apr2025_18_12_30
+s56(12Apr2025:18:12:30):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program1.v 
+#e57(12Apr2025:18:13:49): source ./xcelium.d/env.d/env.history.12Apr2025_18_13_49
+s57(12Apr2025:18:13:49):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program1.v 
+#e58(12Apr2025:18:14:18): source ./xcelium.d/env.d/env.history.12Apr2025_18_14_18
+s58(12Apr2025:18:14:18):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 
+#e59(12Apr2025:18:14:53): source ./xcelium.d/env.d/env.history.12Apr2025_18_14_53
+s59(12Apr2025:18:14:53):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu.v 
+#e60(12Apr2025:18:20:02): source ./xcelium.d/env.d/env.history.12Apr2025_18_20_02
+s60(12Apr2025:18:20:02):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 
+#e61(12Apr2025:18:22:17): source ./xcelium.d/env.d/env.history.12Apr2025_18_22_17
+s61(12Apr2025:18:22:17):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 
+#e62(12Apr2025:18:22:44): source ./xcelium.d/env.d/env.history.12Apr2025_18_22_44
+s62(12Apr2025:18:22:44):  xrun -access rw -licqueue -64BIT -l run.log ../src/address_mux.v ../src/alu.v ../src/controller.v ../src/memory.v ../src/program_counter.v ../src/register.v ../src/risc_cpu.v ../test/tb_risc_cpu_program2.v 

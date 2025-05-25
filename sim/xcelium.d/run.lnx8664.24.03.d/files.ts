@@ -1,0 +1,10 @@
+1744359697 /home/l06group3/vlsi/btl/work/simulation_env/src/program_counter.v
+1744357765 /home/l06group3/vlsi/btl/work/simulation_env/src/address_mux.v
+1744456793 /home/l06group3/vlsi/btl/work/simulation_env/src/memory.v
+1744456389 /home/l06group3/vlsi/btl/work/simulation_env/src/alu.v
+1744362148 /home/l06group3/vlsi/btl/work/simulation_env/src/register.v
+1744454530 /home/l06group3/vlsi/btl/work/simulation_env/src/controller.v
+1744456347 /home/l06group3/vlsi/btl/work/simulation_env/src/risc_cpu.v
+1744456294 /home/l06group3/vlsi/btl/work/simulation_env/test/tb_risc_cpu.v
+1744456956 /home/l06group3/vlsi/btl/work/simulation_env/test/tb_risc_cpu_program2.v
+1744456263 /home/l06group3/vlsi/btl/work/simulation_env/test/tb_risc_cpu_program1.v

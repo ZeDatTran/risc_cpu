@@ -1,0 +1,18 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-access
+rw
+-licqueue
+-64BIT
+-l
+run.log
+../src/address_mux.v
+../src/alu.v
+../src/controller.v
+../src/memory.v
+../src/program_counter.v
+../src/register.v
+../src/risc_cpu.v
+../test/tb_risc_cpu_program2.v

@@ -1,0 +1,12 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+/home/l06group3/vlsi/btl/work/simulation_env/src/address_mux.v
+/home/l06group3/vlsi/btl/work/simulation_env/src/alu.v
+/home/l06group3/vlsi/btl/work/simulation_env/src/controller.v
+/home/l06group3/vlsi/btl/work/simulation_env/src/memory.v
+/home/l06group3/vlsi/btl/work/simulation_env/src/program_counter.v
+/home/l06group3/vlsi/btl/work/simulation_env/src/register.v
+/home/l06group3/vlsi/btl/work/simulation_env/src/risc_cpu.v
+/home/l06group3/vlsi/btl/work/simulation_env/test/tb_risc_cpu_program2.v
